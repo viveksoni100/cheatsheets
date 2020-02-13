@@ -1,0 +1,3 @@
+https://springframework.guru/spring-framework-annotations/
+
+https://docs.spring.io/spring/docs/4.3.26.RELEASE/spring-framework-reference/htmlsingle/
